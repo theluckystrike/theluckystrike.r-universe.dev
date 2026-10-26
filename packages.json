@@ -6,5 +6,9 @@
   {
     "package": "crxpermrisk",
     "url": "https://github.com/theluckystrike/crxpermrisk"
+  },
+  {
+    "package": "usreservoirs",
+    "url": "https://github.com/theluckystrike/usreservoirs"
   }
 ]
